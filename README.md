@@ -1,4 +1,10 @@
 # React + Vite
+#start 
+yarn dev or npm dev
+#insatl pkg
+yarn add or npm i
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
