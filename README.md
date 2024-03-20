@@ -1,7 +1,7 @@
 # React + Vite
-#start 
+# Start 
 yarn dev or npm dev
-#insatl pkg
+# Install Pkg
 yarn add or npm i
 
 
